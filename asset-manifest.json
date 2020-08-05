@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/skylight-v2/static/css/main.5f361e03.chunk.css",
-    "main.js": "/skylight-v2/static/js/main.7b69b345.chunk.js",
-    "main.js.map": "/skylight-v2/static/js/main.7b69b345.chunk.js.map",
-    "runtime-main.js": "/skylight-v2/static/js/runtime-main.b80b395a.js",
-    "runtime-main.js.map": "/skylight-v2/static/js/runtime-main.b80b395a.js.map",
-    "static/css/2.ed439b8d.chunk.css": "/skylight-v2/static/css/2.ed439b8d.chunk.css",
-    "static/js/2.e4d70080.chunk.js": "/skylight-v2/static/js/2.e4d70080.chunk.js",
-    "static/js/2.e4d70080.chunk.js.map": "/skylight-v2/static/js/2.e4d70080.chunk.js.map",
-    "index.html": "/skylight-v2/index.html",
-    "precache-manifest.9b346fd8ee5f4e85863f0b5cb6d5a595.js": "/skylight-v2/precache-manifest.9b346fd8ee5f4e85863f0b5cb6d5a595.js",
-    "service-worker.js": "/skylight-v2/service-worker.js",
-    "static/css/2.ed439b8d.chunk.css.map": "/skylight-v2/static/css/2.ed439b8d.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/skylight-v2/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.e4d70080.chunk.js.LICENSE.txt": "/skylight-v2/static/js/2.e4d70080.chunk.js.LICENSE.txt"
+    "main.css": "/skylight_v2/static/css/main.5f361e03.chunk.css",
+    "main.js": "/skylight_v2/static/js/main.2c8da368.chunk.js",
+    "main.js.map": "/skylight_v2/static/js/main.2c8da368.chunk.js.map",
+    "runtime-main.js": "/skylight_v2/static/js/runtime-main.dfe20968.js",
+    "runtime-main.js.map": "/skylight_v2/static/js/runtime-main.dfe20968.js.map",
+    "static/css/2.ed439b8d.chunk.css": "/skylight_v2/static/css/2.ed439b8d.chunk.css",
+    "static/js/2.e4d70080.chunk.js": "/skylight_v2/static/js/2.e4d70080.chunk.js",
+    "static/js/2.e4d70080.chunk.js.map": "/skylight_v2/static/js/2.e4d70080.chunk.js.map",
+    "index.html": "/skylight_v2/index.html",
+    "precache-manifest.b8c03ecf357bb7d152c72657b9a00a9e.js": "/skylight_v2/precache-manifest.b8c03ecf357bb7d152c72657b9a00a9e.js",
+    "service-worker.js": "/skylight_v2/service-worker.js",
+    "static/css/2.ed439b8d.chunk.css.map": "/skylight_v2/static/css/2.ed439b8d.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/skylight_v2/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e4d70080.chunk.js.LICENSE.txt": "/skylight_v2/static/js/2.e4d70080.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b80b395a.js",
+    "static/js/runtime-main.dfe20968.js",
     "static/css/2.ed439b8d.chunk.css",
     "static/js/2.e4d70080.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.7b69b345.chunk.js"
+    "static/js/main.2c8da368.chunk.js"
   ]
 }
